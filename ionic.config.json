@@ -1,0 +1,8 @@
+{
+  "name": "bravelit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "bdc18c72"
+}
