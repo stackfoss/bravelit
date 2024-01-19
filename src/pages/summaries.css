@@ -1,0 +1,176 @@
+/* src/pages/summaries.css */
+
+/* Global styles */
+body {
+  font-family: 'SF Pro Text', 'Helvetica Neue', sans-serif;
+}
+
+/* Page styles */
+ion-page {
+  background-color: #1d3557; /* Set your desired background color */
+  color: #fff; /* Set text color to white or any contrasting color */
+}
+
+/* Header styles */
+ion-toolbar {
+  --background: #1d3557; /* Dark blue background for the header */
+  --color: #fff; /* White text color for header */
+}
+
+ion-title {
+  font-size: 24px; /* Larger font size for the title */
+  color: #fff; /* White text color for the header title */
+}
+
+/* Searchbar styles */
+ion-searchbar {
+  --ion-background-color: #d1cfcf; /* Darker blue for search bar background */
+  --ion-color: #fff; /* White text color for search bar */
+  --border-radius: 8px; /* Slightly rounded corners for search bar */
+}
+
+/* Dropdown styles */
+ion-select {
+  --ion-color: #071a41; /* Darker blue select background */
+  --ion-text-color: #fff; /* White text color */
+  --border-radius: 8px; /* Slightly rounded corners */
+  --border-color: #2d3949; /* Darker border color */
+  --padding-start: 12px; /* Add padding to the start of the dropdown */
+  --padding-end: 12px; /* Add padding to the end of the dropdown */
+  --placeholder-color: #888; /* Light gray placeholder text color */
+  --placeholder-font-size: 16px; /* Placeholder font size */
+  --indicator-color: #fff; /* White text color for the dropdown indicator */
+}
+
+/* Custom styling for dropdown options */
+ion-select-option {
+  font-family: 'SF Pro Text', 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+  color: #fff; /* White text color for options */
+  --background-hover: #2d3949; /* Darker blue background on hover */
+}
+
+/* Style the selected option */
+ion-select-option:selected {
+  color: #1d3557; /* Dark blue for selected option */
+}
+
+/* Style the arrow icon */
+ion-select::part(icon) {
+  color: #fff; /* White text color for the arrow icon */
+}
+
+/* Add a subtle box shadow on dropdown focus */
+ion-select::part(overlay) {
+  box-shadow: 0 0 8px rgba(255, 255, 255, 0.2);
+}
+
+/* List item styles */
+ion-list {
+  margin-top: 16px; /* Add some space above the list */
+  background-color: #ff5e3a;
+  --ion-background-color: #1d3557; /* Dark blue background for the list */
+  --ion-color: #fff; /* White text color for the list */
+}
+
+ion-item {
+  --ion-background-color: transparent; /* Dark blue background for list items */
+  --ion-color: #fff; /* White text color for list items */
+}
+
+/* Card styles */
+ion-card {
+  --background: #1d3557; /* Darker blue background for cards */
+  --ion-color: #fff; /* White text color for card content */
+  --border-width: 1px; /* Thin border for cards */
+  --border-color: #fff; /* Dark blue border color */
+  --border-radius: 12px; /* Rounded corners for cards */
+}
+
+ion-card-title {
+  font-size: 18px; /* Larger font size for card titles */
+  color: #fff; /* White text color for card titles */
+}
+
+ion-card-content {
+  padding: 16px; /* Add padding to card content */
+  font-size: 16px; /* Adjust font size for card content */
+}
+
+/* Modal styles */
+ion-modal {
+  --background: rgba(29, 53, 87, 0.8); /* Semi-transparent dark background for modals */
+  color: #fff; /* White text color for modal content */
+}
+
+/* Modal content text color */
+ion-modal ion-content ion-label {
+  color: #fff; /* White text color for modal content text */
+}
+
+/* Specific styles for the ion-text-wrap inside the modal */
+ion-modal ion-content ion-label ion-text-wrap {
+  color: #fff; /* White text color for text inside ion-text-wrap */
+}
+
+/* Optional: Style for the close button in the modal */
+ion-modal ion-button {
+  --background: #3f4d63; /* Darker blue color for the close button */
+  --color: #fff; /* White text color for the close button */
+  --border-radius: 8px; /* Rounded corners for the close button */
+  font-weight: bold; /* Bold font for the close button */
+}
+
+/* Modify styles for category and author in ion-label */
+ion-label.ion-text-wrap p {
+  margin: 0; /* Remove default margin to avoid extra spacing */
+}
+
+/* Style for the category */
+ion-label.ion-text-wrap p:first-child {
+  background-color: #ff5e3a; /* Set your desired background color */
+  color: #444444;
+  padding: 2px 4px; /* Add padding for better visibility */
+  border-radius: 2px; /* Add rounded corners */
+  display: inline-block; /* Make it an inline-block to apply background only to the text */
+}
+
+/* Style for the summary */
+ion-label.ion-text-wrap p:nth-child(2) {
+  color: #fff; /* Set the color for the summary text */
+}
+
+/* Style for the author */
+ion-label.ion-text-wrap p:last-child {
+  font-weight: bold; /* Make the author text bold */
+  color: #4caf50; /* Set a different color for the author text */
+}
+
+/* Example for a simple fade-in animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+ion-item {
+  animation: fadeIn 0.5s ease-out; /* Apply fade-in animation to list items */
+}
+
+/* Responsive font sizes */
+@media (max-width: 600px) {
+  ion-title {
+    font-size: 20px;
+  }
+
+  ion-card-title {
+    font-size: 16px;
+  }
+
+  ion-card-content {
+    font-size: 14px;
+  }
+}

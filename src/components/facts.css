@@ -1,0 +1,24 @@
+/* facts.css */
+ion-list {
+  background-color: transparent;
+}
+
+.facts-title {
+  text-align: center;
+  font-size: 1.5em; /* Increased font size for the title */
+  font-weight: bold;
+  color: #ffffff; /* Your primary color */
+  margin-bottom: 10px; /* Increased margin for better spacing */
+  padding: 15px;
+  background-color: #1d3557; /* Darker blue background */
+}
+
+.country-heading {
+  font-size: 1.6em; /* Adjusted font size for country headings */
+  color: #edf3ef; /* Your primary color */
+  margin-bottom: 10px;
+}
+
+.fact-description {
+  color: #d3d3d3; /* Slightly adjusted text color */
+}

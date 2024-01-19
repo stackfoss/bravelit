@@ -1,0 +1,24 @@
+[
+  {
+    "id": "eco1",
+    "title": "Freakonomics",
+    "author": "Steven D. Levitt",
+    "category": "Economics",
+    "summary": "An unconventional look at various economic phenomena and their underlying causes. The authors use economic principles to explore topics ranging from crime rates to baby names, providing a fresh perspective on the world."
+  },
+  {
+    "id": "eco2",
+    "title": "The Wealth of Nations",
+    "author": "Adam Smith",
+    "category": "Economics",
+    "summary": "A classic work on economics and the principles of capitalism. Adam Smith's influential book examines the nature of wealth, markets, and the division of labor, laying the foundation for modern economic thought."
+  },
+  {
+    "id": "eco3",
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "category": "Economics",
+    "summary": "Though not strictly an economics book, it explores the two systems that drive the way we think. Kahneman, a Nobel Prize-winning psychologist, delves into the cognitive biases and errors that affect decision-making, with implications for economics and beyond."
+  }
+]
+

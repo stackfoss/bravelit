@@ -1,0 +1,24 @@
+[
+  {
+    "id": "psy1",
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "category": "Psychology",
+    "summary": "Understanding the two systems that drive the way we think. Kahneman explores the cognitive biases and errors that influence decision-making, offering insights into the dual systems governing human thought processes."
+  },
+  {
+    "id": "psy2",
+    "title": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "category": "Psychology",
+    "summary": "Exploring the habit loop—a neurological pattern governing habits. Duhigg delves into the cue-routine-reward structure and how understanding it can help change or form habits. The book explores the neurology behind habit formation."
+  },
+  {
+    "id": "psy3",
+    "title": "Man's Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "category": "Psychology",
+    "summary": "A profound exploration of finding meaning in life, based on Frankl's experiences as a Holocaust survivor. 'Man's Search for Meaning' combines psychology and philosophy to address the human quest for purpose and fulfillment."
+  }
+]
+

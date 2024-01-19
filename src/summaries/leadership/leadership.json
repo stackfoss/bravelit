@@ -1,0 +1,24 @@
+[
+  {
+    "id": "lea1",
+    "title": "Leaders Eat Last",
+    "author": "Simon Sinek",
+    "category": "Leadership",
+    "summary": "Sinek's exploration of effective leadership and the importance of creating a culture of trust and collaboration. 'Leaders Eat Last' discusses the role of leaders in fostering a sense of belonging and commitment within their teams."
+  },
+  {
+    "id": "lea2",
+    "title": "Dare to Lead",
+    "author": "Brené Brown",
+    "category": "Leadership",
+    "summary": "Brown's guide to courageous leadership and creating workplaces based on vulnerability and empathy. 'Dare to Lead' explores the qualities that make leaders effective and resilient in the face of challenges."
+  },
+  {
+    "id": "lea3",
+    "title": "The 21 Irrefutable Laws of Leadership",
+    "author": "John C. Maxwell",
+    "category": "Leadership",
+    "summary": "Maxwell's examination of the fundamental laws that govern effective leadership. 'The 21 Irrefutable Laws of Leadership' provides practical insights and principles for aspiring leaders to enhance their leadership skills."
+  }
+]
+

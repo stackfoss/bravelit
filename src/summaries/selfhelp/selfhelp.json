@@ -1,0 +1,24 @@
+[
+  {
+    "id": "sel1",
+    "title": "The 7 Habits of Highly Effective People",
+    "author": "Stephen R. Covey",
+    "category": "Self-help",
+    "summary": "Covey's classic self-help book focusing on principles for personal and professional effectiveness. 'The 7 Habits' provides a holistic approach to life and work, encouraging readers to cultivate habits that lead to success and fulfillment."
+  },
+  {
+    "id": "sel2",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "category": "Self-help",
+    "summary": "Exploring the power of tiny habits and their impact on personal and professional development. Clear provides insights into the science of habits and practical strategies for building positive habits and breaking negative ones."
+  },
+  {
+    "id": "sel3",
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "category": "Self-help",
+    "summary": "Manson's unconventional guide to living a good life by focusing on what truly matters. 'The Subtle Art' challenges conventional self-help wisdom and encourages readers to embrace life's challenges with a different mindset."
+  }
+]
+

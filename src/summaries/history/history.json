@@ -1,0 +1,24 @@
+[
+  {
+    "id": "his1",
+    "title": "A People's History of the United States",
+    "author": "Howard Zinn",
+    "category": "History",
+    "summary": "A groundbreaking and alternative perspective on the history of the United States, focusing on the experiences of ordinary people and marginalized groups. Howard Zinn's book challenges traditional historical narratives."
+  },
+  {
+    "id": "his2",
+    "title": "The Second World War",
+    "author": "Winston S. Churchill",
+    "category": "History",
+    "summary": "Winston Churchill's comprehensive six-volume history of the Second World War. The series covers the major events, strategies, and political decisions of the war, providing a detailed account of this pivotal period in history."
+  },
+  {
+    "id": "his3",
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "category": "History",
+    "summary": "While not strictly a history book, Harari's work provides a thought-provoking overview of human history, from the emergence of Homo sapiens to the present day. It explores the cultural, social, and cognitive developments that shaped our species."
+  }
+]
+

@@ -1,0 +1,24 @@
+[
+  {
+   "id": "pol1",
+    "title": "The Prince",
+    "author": "Niccolò Machiavelli",
+    "category": "Politics",
+    "summary": "Machiavelli's classic work on political philosophy and statecraft. 'The Prince' explores the nature of power, leadership, and the strategies rulers should employ to maintain control and achieve their objectives."
+  },
+  {
+    "id": "pol2",
+    "title": "The Federalist Papers",
+    "author": "Alexander Hamilton, James Madison, John Jay",
+    "category": "Politics",
+    "summary": "A collection of essays written by Alexander Hamilton, James Madison, and John Jay, advocating for the ratification of the United States Constitution. The papers provide insights into the framers' intentions and constitutional principles."
+  },
+  {
+    "id": "pol3",
+    "title": "Democracy in America",
+    "author": "Alexis de Tocqueville",
+    "category": "Politics",
+    "summary": "Tocqueville's analysis of American society and political institutions in the 19th century. 'Democracy in America' explores the strengths and weaknesses of democratic governance and its impact on individuals and communities."
+  }
+]
+

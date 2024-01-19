@@ -1,0 +1,44 @@
+/* readbooks.css */
+
+.read-books-title {
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #ffffff;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  padding: 15px;
+  background-color: #1d3557;
+}
+
+.read-books-subtitle {
+  text-align: center;
+  font-size: 1em;
+  color: #d4d4d4;
+  margin-bottom: 16px;
+}
+
+.book-item {
+  background-color: transparent; /* Make each book item transparent */
+}
+
+.book-title {
+  color: #ced5df;
+  font-size: 1.6em;
+  font-weight: bold;
+}
+
+.book-author {
+  color: #1fdf4f;
+  font-size: 1.2em;
+  margin-top: 4px;
+}
+
+/* Divider styles */
+.book-item::after {
+  content: '';
+  display: block;
+  height: 1px;
+  background-color: #555;
+  margin: 8px 0;
+}

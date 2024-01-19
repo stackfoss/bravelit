@@ -1,0 +1,34 @@
+/* LatestCategory.css */
+.ion-list-wrap {
+  background-color: transparent;
+}
+
+.latest-category-link {
+  text-decoration: none;
+  color: #fff;
+}
+
+.latest-category-link:hover {
+  color: #007bff;
+}
+
+.latest-category-container {
+  padding: 16px;
+  border-bottom: 1px solid #5e5e5e; /* Add a subtle border between items */
+}
+
+.latest-category-title {
+  font-size: 1.2em;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.latest-category-author {
+  color: #ffffff;
+  font-size: 0.9em;
+}
+
+/* Remove the top margin from the list */
+ion-list {
+  margin-top: 0;
+}

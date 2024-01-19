@@ -1,0 +1,55 @@
+/* features.css */
+
+.features-title {
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #fff; /* Set text color for the title */
+  margin-bottom: 0;
+  padding: 15px;
+  background-color: #1d3557; /* Set your desired background color */
+}
+
+.feature-col {
+  text-align: center;
+  padding: 20px;
+}
+
+.feature-icon {
+  font-size: 2em;
+  color: #4caf50;
+  margin-bottom: 10px;
+}
+
+.feature-heading {
+  font-size: 1.2em;
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+
+.feature-description {
+  color: #c5c4c4;
+}
+
+/* Responsive styles for smaller screens */
+@media (max-width: 600px) {
+  .features-title {
+    font-size: 1.2em;
+  }
+
+  .feature-col {
+    padding: 15px;
+  }
+
+  .feature-icon {
+    font-size: 1.5em;
+  }
+
+  .feature-heading {
+    font-size: 1em;
+  }
+
+  .feature-description {
+    font-size: 0.9em;
+  }
+}

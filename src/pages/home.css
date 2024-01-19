@@ -1,0 +1,7 @@
+/* home.css */
+ion-content {
+  --background: #1d3557; /* Set your desired background color */
+  color: #fff; /* Set text color to white or any contrasting color */
+}
+
+/* Additional styling as needed */

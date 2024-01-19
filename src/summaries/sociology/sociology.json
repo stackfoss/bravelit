@@ -1,0 +1,24 @@
+[
+  {
+   "id": "soc1",
+    "title": "The Sociological Imagination",
+    "author": "C. Wright Mills",
+    "category": "Sociology",
+    "summary": "Mills' exploration of the sociological perspective and the ability to connect personal experiences to broader social issues. 'The Sociological Imagination' encourages readers to view their lives within the context of societal structures and historical trends."
+  },
+  {
+    "id": "soc2",
+    "title": "The Tipping Point",
+    "author": "Malcolm Gladwell",
+    "category": "Sociology",
+    "summary": "Examining how small actions can lead to significant social change. Gladwell's 'The Tipping Point' explores the dynamics of social epidemics and the factors that contribute to the rapid spread of ideas, trends, and behaviors."
+  },
+  {
+    "id": "soc3",
+    "title": "Evicted: Poverty and Profit in the American City",
+    "author": "Matthew Desmond",
+    "category": "Sociology",
+    "summary": "Desmond's investigation into the impact of eviction on the lives of low-income families. 'Evicted' provides a close examination of the housing crisis in America and its broader implications for poverty and inequality."
+  }
+]
+

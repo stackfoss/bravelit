@@ -1,0 +1,24 @@
+[
+  {
+    "id": "car1",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "category": "Career",
+    "summary": "Clear's exploration of the power of habits and their impact on personal and professional development. 'Atomic Habits' provides actionable strategies for building positive habits, breaking bad ones, and mastering the tiny behaviors that lead to remarkable results."
+  },
+  { 
+    "id": "car2",
+    "title": "Deep Work: Rules for Focused Success in a Distracted World",
+    "author": "Cal Newport",
+    "category": "Career",
+    "summary": "Newport's guide to cultivating deep work, the ability to focus without distraction on a cognitively demanding task. 'Deep Work' explores strategies to enhance productivity and succeed in a world filled with constant distractions."
+  },
+  {
+   "id": "car3",
+    "title": "Mindset: The New Psychology of Success",
+    "author": "Carol S. Dweck",
+    "category": "Career",
+    "summary": "Dweck's examination of the power of mindset and its impact on achievement. 'Mindset' explores the difference between a fixed mindset and a growth mindset, providing insights into personal and professional development."
+  }
+]
+

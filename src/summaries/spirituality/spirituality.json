@@ -1,0 +1,24 @@
+[
+  {
+    "id": "spi1",
+    "title": "The Power of Now",
+    "author": "Eckhart Tolle",
+    "category": "Spirituality",
+    "summary": "Tolle's guide to spiritual enlightenment and living in the present moment. 'The Power of Now' explores the concept of mindfulness, offering practical insights to help readers achieve a state of heightened awareness and inner peace."
+  },
+  {
+    "id": "spi2",
+    "title": "The Four Agreements",
+    "author": "Don Miguel Ruiz",
+    "category": "Spirituality",
+    "summary": "Ruiz's exploration of ancient Toltec wisdom and the four agreements that can lead to personal freedom and fulfillment. 'The Four Agreements' provides a code of conduct for living a life of authenticity and happiness."
+  },
+  {
+    "id": "spi3",
+    "title": "Autobiography of a Yogi",
+    "author": "Paramahansa Yogananda",
+    "category": "Spirituality",
+    "summary": "Yogananda's spiritual memoir recounting his journey to self-realization and encounters with spiritual leaders. 'Autobiography of a Yogi' explores the teachings of yoga and meditation, offering insights into the quest for spiritual truth."
+  }
+]
+

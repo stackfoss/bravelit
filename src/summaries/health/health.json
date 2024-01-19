@@ -1,0 +1,24 @@
+[
+  {
+    "id": "hea1",
+    "title": "How Not to Die",
+    "author": "Michael Greger, M.D.",
+    "category": "Health",
+    "summary": "Dr. Greger's examination of evidence-based nutrition and lifestyle practices to prevent and reverse common diseases. 'How Not to Die' provides practical insights into adopting a plant-based diet and making lifestyle choices for optimal health."
+  },
+  {
+    "id": "hea2",
+    "title": "The Blue Zones: Lessons for Living Longer From the People Who've Lived the Longest",
+    "author": "Dan Buettner",
+    "category": "Health",
+    "summary": "Buettner's exploration of the habits and lifestyles of the world's longest-lived people. 'The Blue Zones' offers lessons on longevity, well-being, and happiness, based on the practices of communities with high life expectancy."
+  },
+  {
+    "id": "hea3",
+    "title": "The Whole-Body Microbiome: How to Harness Microbes—Inside and Out—for Lifelong Health",
+    "author": "B. Brett Finlay and Jessica M. Finlay",
+    "category": "Health",
+    "summary": "The Finlays' guide to understanding and harnessing the power of the microbiome for overall health. 'The Whole-Body Microbiome' explores the role of microbes in various bodily functions and provides insights into maintaining a healthy microbiome."
+  }
+]
+

@@ -1,0 +1,59 @@
+/* src/pages/quotes.css */
+
+/* Global styles */
+body {
+  font-family: 'Helvetica Neue', sans-serif;
+  background-color: #1f1f1f; /* Dark background color */
+  color: #ffffff; /* Light text color */
+}
+
+/* Header styles */
+ion-toolbar {
+  --background: #333333; /* Dark gray background */
+  --ion-color-base: #ffffff; /* Light text color */
+  --color: #ffffff; /* Light text color */
+}
+
+ion-title {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+ion-list{
+  --background: transparent;
+}
+/* List Styles */
+.ion-list {
+  padding: 0;
+  --background: transparent; /* Set the background to transparent */
+}
+
+/* Item Styles */
+.ion-item {
+  --border-color: transparent;
+  --inner-padding-end: 0;
+  --inner-padding-start: 0;
+}
+
+/* Remove lines between items */
+ion-item::before,
+ion-item::after {
+  display: none;
+}
+
+/* Add space between items */
+.ion-item + .ion-item {
+  margin-top: 8px;
+}
+
+.quote-text {
+  font-weight: bold;
+  color: #ffffff;
+  margin-bottom: 8px;
+  font-size: 1.2em;
+}
+
+.quote-author {
+  font-style: italic;
+  font-size: 1em;
+  color: #cccccc;
+}

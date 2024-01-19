@@ -1,0 +1,24 @@
+[
+  {
+    "id": "bio1",
+    "title": "Steve Jobs",
+    "author": "Walter Isaacson",
+    "category": "Biography",
+    "summary": "A biography of Steve Jobs, the co-founder of Apple Inc. The book covers Jobs' personal and professional life, including his role in the development of iconic products like the iPhone and Macintosh."
+  },
+  { 
+    "id": "bio2",
+    "title": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "category": "Biography",
+    "summary": "The diary of Anne Frank, a Jewish girl hiding with her family during the Nazi occupation of the Netherlands. Her diary provides a poignant account of her experiences and thoughts during this difficult time."
+  },
+  {
+    "id": "bio3",
+    "title": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
+    "author": "Ashlee Vance",
+    "category": "Biography",
+    "summary": "A biography of Elon Musk, the entrepreneur and CEO known for founding Tesla Motors and SpaceX. The book explores Musk's ambitious goals and determination to make an impact on the future of technology and space exploration."
+  }
+]
+

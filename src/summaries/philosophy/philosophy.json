@@ -1,0 +1,24 @@
+[
+  {
+    "id": "phi1",
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "category": "Philosophy",
+    "summary": "A series of personal writings by the Roman Emperor, exploring Stoic philosophy. Marcus Aurelius reflects on life, virtue, and the nature of the universe, offering timeless wisdom and guidance."
+  },
+  {
+    "id": "phi2",
+    "title": "The Republic",
+    "author": "Plato",
+    "category": "Philosophy",
+    "summary": "An influential work by Plato, discussing justice, the nature of the soul, and the ideal state. The dialogue unfolds as Socrates engages with other characters, exploring profound philosophical questions."
+  },
+  {
+    "id": "phi3",
+    "title": "Beyond Good and Evil",
+    "author": "Friedrich Nietzsche",
+    "category": "Philosophy",
+    "summary": "Nietzsche's exploration of morality, individualism, and the nature of truth. In 'Beyond Good and Evil,' he challenges conventional moral concepts and advocates for a reevaluation of values."
+  }
+]
+

@@ -1,0 +1,24 @@
+[
+  { 
+    "id": "ent1",
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "category": "Entrepreneurship",
+    "summary": "Ries' guide to building and growing successful startups. 'The Lean Startup' introduces the lean methodology, emphasizing continuous innovation, validated learning, and adapting to market feedback for entrepreneurial success."
+  },
+  { 
+    "id": "ent2",
+    "title": "Zero to One",
+    "author": "Peter Thiel with Blake Masters",
+    "category": "Entrepreneurship",
+    "summary": "Thiel's insights on innovation and building a successful startup. 'Zero to One' encourages entrepreneurs to think about the unique value they can create and challenges conventional wisdom about competition and progress."
+  },
+  {
+    "id": "ent3",
+    "title": "The E-Myth Revisited",
+    "author": "Michael E. Gerber",
+    "category": "Entrepreneurship",
+    "summary": "Gerber's exploration of the myths and challenges faced by small business owners. 'The E-Myth Revisited' provides insights into building scalable and successful businesses by understanding the roles of the entrepreneur, manager, and technician."
+  }
+]
+

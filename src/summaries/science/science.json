@@ -1,0 +1,24 @@
+[
+  {
+    "id": "sci1",
+    "title": "Cosmos",
+    "author": "Carl Sagan",
+    "category": "Science",
+    "summary": "A journey through space and time, exploring the wonders of the cosmos. Carl Sagan's 'Cosmos' covers a wide range of scientific topics, from astronomy to biology, providing a captivating overview of the universe."
+  },
+  {
+    "id": "sci2",
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "category": "Science",
+    "summary": "Stephen Hawking's exploration of the nature of the universe and the fundamental principles of physics. 'A Brief History of Time' delves into topics such as black holes, the big bang, and the nature of time itself."
+  },
+  {
+    "id": "sci3",
+    "title": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "category": "Science",
+    "summary": "Examining the role of genes in evolution, Dawkins introduces the concept of the 'selfish gene' as a way to understand the behavior of living organisms. 'The Selfish Gene' explores the gene's perspective on natural selection."
+  }
+]
+

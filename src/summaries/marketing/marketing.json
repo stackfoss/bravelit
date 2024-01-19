@@ -1,0 +1,24 @@
+[
+  {
+    "id": "mar1",
+    "title": "Influence: The Psychology of Persuasion",
+    "author": "Robert B. Cialdini",
+    "category": "Marketing",
+    "summary": "Cialdini's exploration of the principles of influence and persuasion. 'Influence' delves into the psychology behind decision-making, providing valuable insights for marketers looking to understand and leverage the factors that drive consumer behavior."
+  },
+  { 
+    "id": "mar2",
+    "title": "Contagious: How to Build Word of Mouth in the Digital Age",
+    "author": "Jonah Berger",
+    "category": "Marketing",
+    "summary": "Berger's examination of why certain ideas and products go viral. 'Contagious' explores the science behind contagious content and provides practical strategies for creating marketing messages that capture the attention of audiences."
+  },
+  {
+    "id": "mar3",
+    "title": "Purple Cow: Transform Your Business by Being Remarkable",
+    "author": "Seth Godin",
+    "category": "Marketing",
+    "summary": "Godin's guide to standing out in a crowded marketplace. 'Purple Cow' encourages businesses to be remarkable and create products and marketing campaigns that are truly unique, captivating customers and driving success."
+  }
+]
+

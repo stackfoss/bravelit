@@ -1,0 +1,22 @@
+/* hero.css */
+
+.hero-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.hero-title {
+  font-size: 2em; /* Adjust the font size as needed */
+  font-weight: bold;
+  color: #fff;
+}
+.hero-subtitle{
+  font-size: 1.2em; /* Adjust the font size as needed */
+  color: #fff;
+}
+
+
+.hero-description {
+  margin-top: 10px;
+  color: #ddd;
+}
