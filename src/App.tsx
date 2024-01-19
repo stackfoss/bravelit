@@ -1,4 +1,5 @@
 import React from 'react';
+import { Redirect, Route } from 'react-router-dom';
 import {
   IonApp,
   IonIcon,
@@ -7,15 +8,14 @@ import {
   IonTabBar,
   IonTabButton,
   IonTabs,
-  setupIonicReact,
+  setupIonicReact
 } from '@ionic/react';
 import { IonReactRouter } from '@ionic/react-router';
-import { Redirect, Route } from 'react-router-dom';
-import { chatboxOutline,bookOutline, homeOutline } from 'ionicons/icons';
+import { chatboxOutline, bookOutline, homeOutline } from 'ionicons/icons';
 import Summaries from './pages/summaries';
 import Quotes from './pages/quotes';
 import Home from './pages/home';
-import CategoryDetails from './components/CategoryDetails'
+import CategoryDetails from './components/CategoryDetails';
 
 /* Core CSS required for Ionic components to work properly */
 import '@ionic/react/css/core.css';
@@ -43,7 +43,7 @@ const App: React.FC = () => (
     <IonReactRouter>
       <IonTabs>
         <IonRouterOutlet>
-        <Route exact path="/home">
+          <Route exact path="/home">
             <Home />
           </Route>
           <Route exact path="/summaries">
@@ -58,7 +58,7 @@ const App: React.FC = () => (
           <Route path="/category/:category/:title" component={CategoryDetails} />
         </IonRouterOutlet>
         <IonTabBar slot="bottom">
-            <IonTabButton tab="home" href="/home">
+          <IonTabButton tab="home" href="/home">
             <IonIcon aria-hidden="true" icon={homeOutline} />
             <IonLabel>Home</IonLabel>
           </IonTabButton>
@@ -77,3 +77,4 @@ const App: React.FC = () => (
 );
 
 export default App;
+
