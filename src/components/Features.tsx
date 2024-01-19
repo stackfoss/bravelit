@@ -1,5 +1,3 @@
-// Features.tsx
-
 import React from 'react';
 import {
   IonCardTitle,
@@ -17,7 +15,7 @@ const Features: React.FC = () => {
       <IonCardTitle className="features-title">One Minute Book Summaries</IonCardTitle>
       <IonGrid>
         <IonRow>
-          <IonCol size="12" md="4" className="feature-col">
+          <IonCol size="12" size-md="4" className="feature-col">
             <div className="feature-icon">
               <IonIcon icon={prismOutline} />
             </div>
@@ -26,7 +24,7 @@ const Features: React.FC = () => {
               Enjoy the benefits without any cost to your pocket.
             </p>
           </IonCol>
-          <IonCol size="12" md="4" className="feature-col">
+          <IonCol size="12" size-md="4" className="feature-col">
             <div className="feature-icon">
               <IonIcon icon={globeOutline} />
             </div>
@@ -35,7 +33,7 @@ const Features: React.FC = () => {
               Read at your convenience, no restrictions on when or where.
             </p>
           </IonCol>
-          <IonCol size="12" md="4" className="feature-col">
+          <IonCol size="12" size-md="4" className="feature-col">
             <div className="feature-icon">
               <IonIcon icon={heartOutline} />
             </div>
