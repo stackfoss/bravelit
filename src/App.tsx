@@ -53,7 +53,7 @@ const App: React.FC = () => (
             <Quotes />
           </Route>
           <Route exact path="/">
-            <Redirect to="/summaries" />
+            <Redirect to="/home" />
           </Route>
           <Route path="/category/:category/:title" component={CategoryDetails} />
         </IonRouterOutlet>

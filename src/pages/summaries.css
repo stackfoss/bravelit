@@ -12,6 +12,9 @@ ion-page {
 }
 
 /* Header styles */
+ion-header{
+  background-color: #2FDF75;
+}
 ion-toolbar {
   --background: #1d3557; /* Dark blue background for the header */
   --color: #fff; /* White text color for header */

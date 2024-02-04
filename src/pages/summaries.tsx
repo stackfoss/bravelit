@@ -79,8 +79,8 @@ const Summaries: React.FC = () => {
 
   return (
     <IonPage>
-      <IonHeader>
-        <IonToolbar>
+      <IonHeader color="primary">
+        <IonToolbar color="primary">
           <IonTitle className="ion-text-center">Book Summaries</IonTitle>
         </IonToolbar>
       </IonHeader>
